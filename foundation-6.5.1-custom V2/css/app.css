@@ -1,0 +1,25 @@
+.encabezado{
+	background: pink;
+}
+
+.logo{
+	font-size: 3em;
+	color: #fff;
+}
+.menu{
+	/*background: #333;*/
+}
+
+.li{
+	background: #333;
+}
+
+
+a{
+	color: #fff;
+}
+
+.container{
+	background: #ccc;
+}
+

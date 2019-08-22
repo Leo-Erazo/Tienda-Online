@@ -1,0 +1,13 @@
+
+.logo{
+	font-size: 3em;
+	color: tomato;
+}
+
+img{
+	max-height: 125px;
+	background-color: #fff;
+	border: solid 1px #ccc;
+	border-radius: 5px;
+	padding: 5px;
+}
